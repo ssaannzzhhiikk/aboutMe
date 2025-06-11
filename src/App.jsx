@@ -12,7 +12,7 @@ function App() {
         <img 
           src="/images/me.jpg" 
           alt="me" 
-          className="w-48 sm:w-64 md:w-72 lg:w-80 rounded-full border-4 border-gray-300 object-cover shadow-lg"
+          className="w-48 sm:w-64 md:w-72 lg:w-80 rounded-full border-2 object-cover shadow-lg"
         />
 
         <div className="flex-1">
